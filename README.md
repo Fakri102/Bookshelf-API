@@ -1,3 +1,2 @@
-# Bookshelf-API
-
-Submissi
+# Submission Dicoding Belajar Membuat Aplikasi Back-End untuk Pemula
+Bookshelf-API
